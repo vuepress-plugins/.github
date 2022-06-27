@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🙋‍♀️ We made some simple plugins for vuepress
+
 <!--
 
 **Here are some ideas to get you started:**
